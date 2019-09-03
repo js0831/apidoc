@@ -1,0 +1,16 @@
+{
+  "ppos":[
+    {
+      "id":"product",
+      "name": "Product Catalog"
+    },
+    {
+      "id":"pricetype",
+      "name": "Price Type"  
+    },
+    {
+      "id":"productretailprice",
+      "name": "Product Retail Price"  
+    }
+  ]
+}

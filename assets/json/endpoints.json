@@ -1,0 +1,5 @@
+{
+  "product":  "product.endpoints",
+  "pricetype": "price-type.endpoints",
+  "productretailprice": "product-retail-price.endpoints"
+}
